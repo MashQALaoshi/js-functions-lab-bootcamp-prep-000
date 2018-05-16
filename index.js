@@ -6,6 +6,7 @@ function happyHolidays () {
 function happyHolidaysTo (name) {
   return `Happy holidays, ${name}!`
 }
+happyHolidaysTo (Mash)
 
 function happyHolidaysTo (name) {
   return `Happy holidays, ${name}!`
