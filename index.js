@@ -14,7 +14,7 @@ function happyHolidayTo (holiday, name) {
 }
 happyHolidayTo (Eid, Mash)
 
-function holidayCountdown (days, holiday) {
+function holidayCountdown (holidays, days) {
   return `It's ${days} days until ${holiday}!`
 }
 holidayCountdown ('5', Eid)
